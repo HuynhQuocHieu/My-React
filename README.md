@@ -1,2 +1,25 @@
-# My-React
-bài tâp môn react
+#bài tâp môn react
+##lý thuyết
+1. [cau1](https://codepen.io/Quc-Hiu-the-styleful/pen/VwdEyq)
+2. [cau3](https://codepen.io/Quc-Hiu-the-styleful/pen/xxzyYZW)
+3. [cau5](https://codepen.io/Quc-Hiu-the-styleful/pen/OJEBQNL)
+4. [cau6](https://codepen.io/Quc-Hiu-the-styleful/pen/wvXYyGB)
+5. [cau7](https://codesandbox.io/s/cau-7-bdszuf)
+6. [cau8](https://codesandbox.io/s/cau-8-pgbeuz)
+7. [cau9](https://codepen.io/Quc-Hiu-the-styleful/pen/BaVWNEq)
+8. [cau10](https://codepen.io/Quc-Hiu-the-styleful/pen/dyKvGVx)
+9. [cau11](https://codepen.io/Quc-Hiu-the-styleful/pen/JjZWaXa)
+10. [cau12](https://codepen.io/Quc-Hiu-the-styleful/pen/qBKrMZJ)
+12. [cau13](https://codepen.io/Quc-Hiu-the-styleful/pen/LYrWJNX)
+13. [cau14](https://codepen.io/Quc-Hiu-the-styleful/pen/MWXpqev)
+14. [cau15](https://codepen.io/Quc-Hiu-the-styleful/pen/ExRWeyL)
+15. [cau16](https://codepen.io/Quc-Hiu-the-styleful/pen/NWzaYgX)
+16. [cau17](https://codepen.io/Quc-Hiu-the-styleful/pen/KKeXewz)
+17. [cau18](https://codepen.io/Quc-Hiu-the-styleful/pen/QWxmoKW)
+18. [cau19](https://codesandbox.io/s/cau-19-z10elh)
+19. [cau20](https://codesandbox.io/s/cau-20-2llotr)
+20. [cau21](https://codesandbox.io/s/cau-21-ljx9vd)
+## thực hành
+[ bài thực hanh 1] (https://codesandbox.io/s/thuchanh1-w6li8g)
+[ bài thực hanh 2] (https://codesandbox.io/s/huynhquochieubtthuchanh-6xhiw3?file=/src/App.js)
+[ bài thực hành 3] (https://codesandbox.io/s/huynhquochieubtduan-o672hk?file=/src/App.js)
