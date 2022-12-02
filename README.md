@@ -1,5 +1,5 @@
  #bài tâp môn react
-##lý thuyết
+## lý thuyết
 1. [cau1](https://codepen.io/Quc-Hiu-the-styleful/pen/VwdEyq)
 2. [cau3](https://codepen.io/Quc-Hiu-the-styleful/pen/xxzyYZW)
 3. [cau5](https://codepen.io/Quc-Hiu-the-styleful/pen/OJEBQNL)
@@ -20,6 +20,6 @@
 19. [cau20](https://codesandbox.io/s/cau-20-2llotr)
 20. [cau21](https://codesandbox.io/s/cau-21-ljx9vd)
 ## thực hành
-1[ bài thực hanh 1] (https://codesandbox.io/s/thuchanh1-w6li8g)
-2[ bài thực hanh 2] (https://codesandbox.io/s/huynhquochieubtthuchanh-6xhiw3?file=/src/App.js)
-3[ bài thực hành 3] (https://codesandbox.io/s/huynhquochieubtduan-o672hk?file=/src/App.js)
+1[ bài thực hanh 1](https://codesandbox.io/s/thuchanh1-w6li8g)
+2[ bài thực hanh 2](https://codesandbox.io/s/huynhquochieubtthuchanh-6xhiw3?file=/src/App.js)
+3[ bài thực hành 3](https://codesandbox.io/s/huynhquochieubtduan-o672hk?file=/src/App.js)
