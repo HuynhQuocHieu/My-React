@@ -16,9 +16,9 @@
 15. [cau16](https://codepen.io/Quc-Hiu-the-styleful/pen/NWzaYgX)
 16. [cau17](https://codepen.io/Quc-Hiu-the-styleful/pen/KKeXewz)
 17. [cau18](https://codesandbox.io/s/bai18-forked-ugw8t4)
-18. [cau19](https://codesandbox.io/s/cau-19-z10elh)
-19. [cau20](https://codesandbox.io/s/cau-20-2llotr)
-20. [cau21](https://codesandbox.io/s/cau-21-ljx9vd)
+18. [cau19](https://codesandbox.io/s/cau19-forked-nzltvb)
+19. [cau20](https://codesandbox.io/s/bai20-forked-prrxms)
+20. [cau21](https://codesandbox.io/s/bai21-forked-0sue93)
 ## thực hành
 1. [ bài thực hanh 1](https://codesandbox.io/s/huynhquochieubt1-forked-95sxqu)
 2. [ bài thực hanh 2](https://codesandbox.io/s/huynhquochieubtthuchanh-6xhiw3?file=/src/App.js)
