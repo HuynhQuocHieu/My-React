@@ -6,7 +6,7 @@
 4. [cau6](https://codepen.io/Quc-Hiu-the-styleful/pen/wvXYyGB)
 5. [cau7](https://codesandbox.io/s/cau-7-bdszuf)
 6. [cau8](https://codesandbox.io/s/cau-8-pgbeuz)
-7. [cau9](https://codepen.io/Quc-Hiu-the-styleful/pen/BaVWNEq)
+7. [cau9](https://codesandbox.io/s/cau9-forked-i6y7el)
 8. [cau10](https://codepen.io/Quc-Hiu-the-styleful/pen/dyKvGVx)
 9. [cau11](https://codepen.io/Quc-Hiu-the-styleful/pen/JjZWaXa)
 10. [cau12](https://codepen.io/Quc-Hiu-the-styleful/pen/qBKrMZJ)
