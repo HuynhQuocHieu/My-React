@@ -1,6 +1,6 @@
  #bài tâp môn react
 ## lý thuyết
-1. [cau1](https://codepen.io/Quc-Hiu-the-styleful/pen/VwdEyq)
+1. [cau1](https://codepen.io/Quc-Hiu-the-styleful/pen/VwdEyqd)
 2. [cau3](https://codepen.io/Quc-Hiu-the-styleful/pen/xxzyYZW)
 3. [cau5](https://codepen.io/Quc-Hiu-the-styleful/pen/OJEBQNL)
 4. [cau6](https://codepen.io/Quc-Hiu-the-styleful/pen/wvXYyGB)
