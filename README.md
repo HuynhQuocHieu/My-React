@@ -23,3 +23,4 @@
 1. [ bài thực hanh 1](https://codesandbox.io/s/thuchanh1-w6li8g)
 2. [ bài thực hanh 2](https://codesandbox.io/s/huynhquochieubtthuchanh-6xhiw3?file=/src/App.js)
 3. [ bài thực hành 3](https://codesandbox.io/s/huynhquochieubtduan-o672hk?file=/src/App.js)
+4. [ bài thực hành Anonymousprops&state ](https://codesandbox.io/s/props-state-forked-pj8odx)
