@@ -15,7 +15,7 @@
 14. [cau15](https://codepen.io/Quc-Hiu-the-styleful/pen/ExRWeyL)
 15. [cau16](https://codepen.io/Quc-Hiu-the-styleful/pen/NWzaYgX)
 16. [cau17](https://codepen.io/Quc-Hiu-the-styleful/pen/KKeXewz)
-17. [cau18](https://codepen.io/Quc-Hiu-the-styleful/pen/QWxmoKW)
+17. [cau18](https://codesandbox.io/s/bai18-forked-ugw8t4)
 18. [cau19](https://codesandbox.io/s/cau-19-z10elh)
 19. [cau20](https://codesandbox.io/s/cau-20-2llotr)
 20. [cau21](https://codesandbox.io/s/cau-21-ljx9vd)
